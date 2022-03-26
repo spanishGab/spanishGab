@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**spanishGab/spanishGab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gabriel Espanhol Santos, I'm a Backend developer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Dock
+- 🌱 I’m currently learning NodeJS with Typescript, Clean Code, Clean Architecture and AWS
+- 📫 How to reach me: gabrielmail09@gmail.com
+- 😄 Pronouns: Ele/Él/He
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Hard Skills 💻
+
+1. 🐍 Python with focus on ETL systems and process automation and RESTFull APIs
+2. 🔷 Typescript with NodeJS with focus on RESTFull
+3. 🔶 AWS services like: DynamoDB, RDS, SQS, SecretsManager, CloudWatch and Cloudformation
+
+### My Soft Skills 💬
+
+- Love to teach people
+- Hear more than talk
+- Embrace different perspectives
+- Work with teams but also on my own
+- Never give up in front of a problem
+- Search for a solution before the problem even raises
