@@ -2,22 +2,22 @@
 
 My name is Gabriel Espanhol Santos, I'm a Backend developer.
 
-- 🔭 I’m currently working on Dock
-- 🌱 I’m currently learning NodeJS with Typescript, Clean Code, Clean Architecture and AWS
-- 📫 How to reach me: gabrielmail09@gmail.com
+- 🔭 I’m currently working at [Dock Tech](https://dock.tech/)
+- 🌱 I’m currently learning about Software Design Patterns, Data Structures, and Clean Architecture
+- 📫 How to get in touch with me: gabrielmail09@gmail.com
 - 😄 Pronouns: Ele/Él/He
 
 ### My Hard Skills 💻
 
-1. 🐍 Python with focus on ETL systems and process automation and RESTFull APIs
-2. 🔷 Typescript with NodeJS with focus on RESTFull
-3. 🔶 AWS services like: DynamoDB, RDS, SQS, SecretsManager, CloudWatch and Cloudformation
+1. 🐍 Python with a focus on ETL systems, process automation, and RESTfull APIs
+2. 🔷 Typescript with NodeJS with a focus on RESTfull APIs
+3. 🔶 AWS services
 
 ### My Soft Skills 💬
 
 - Love to teach people
 - Hear more than talk
 - Embrace different perspectives
-- Work with teams but also on my own
+- Teamwork
 - Never give up in front of a problem
 - Search for a solution before the problem even raises
